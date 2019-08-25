@@ -15,12 +15,13 @@
         <EditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:inputType="textPersonName"
+                android:inputType="none|textPersonName"
                 android:text="Busverbindungen"
                 android:ems="10"
-                android:id="@+id/editText2"/>
+                android:id="@+id/editText2" android:editable="false" android:clickable="false"
+                android:cursorVisible="false" android:keepScreenOn="false" android:keyboardNavigationCluster="false"/>
         <Button
-                android:text="Rathaus-Reppenstedt"
+                android:text="Rathaus LG-Reppenstedt"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" android:id="@+id/button" android:onClick="mybrowse"/>
         <Button
