@@ -1,0 +1,8 @@
+So schalten Sie die Entwickleroptionen frei
+Um die Entwickleroptionen freizuschalten, müssen sie bei Android 8 den Menüpunkt System in der Einstellungen-App suchen und im nächsten Schritt den Eintrag Über das Telefon öffnen.
+
+Im Über das Telefon-Menü müssen Sie nach der Build-Nummer suchen. Die bei einigen Smartphones in Untermenüs wie „Software-Information“ versteckt ist. Tippen Sie sieben Mal hintereinander auf die Build-Nummer und es wird die Mitteilung „Sie sind nun Entwickler“ angezeigt.
+
+Da das USB-Debugging in erster Linie für Entwickler gedacht ist, hat Google diese Funktion ein wenig versteckt. Wenn Sie wissen, wo Sie suchen müssen, ist das USB-Debugging jedoch schnell aktiviert:
+Android 2.3: Tippen Sie zuerst auf "Einstellungen" und dann auf "Apps". Anschließend wählen Sie den Punkt "Entwicklung" aus. Dort können Sie das USB-Debugging aktivieren.
+Ab Android 4.0: Tippen Sie auf "Einstellungen" und dann auf "Entwickleroptionen". Dort können Sie das USB-Debugging aktivieren.
